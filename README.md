@@ -5,8 +5,4 @@ MultiplicattionTable is a SwiftUI app which aims to help practicing the multipli
 
 | Easy | Medium | Hard | Expert | Demo |
 | --- | --- | --- | --- | --- |
-| <img src="images/Image-Multiplication-Easy.png" alt="Habitz-Easy" width="200" />
-| <img src="images/Image-Multiplication-Medium.png" alt="Habitz-Medium" width="200" />
-| <img src="images/Image-Multiplication-Hard.png" alt="Habitz-Hard" width="200" />
-| <img src="images/Image-Multiplication-Expert.png" alt="Habitz-Expert" width="200" />
-| <img src="images/gifs/Multiplication-Demo.gif" alt="Habitz-Demo" width="200" /> |
+| <img src="images/Image-Multiplication-Easy.png" alt="Habitz-Easy" width="200" /> | <img src="images/Image-Multiplication-Medium.png" alt="Habitz-Medium" width="200" /> | <img src="images/Image-Multiplication-Hard.png" alt="Habitz-Hard" width="200" /> | <img src="images/Image-Multiplication-Expert.png" alt="Habitz-Expert" width="200" /> | <img src="images/gifs/MultiplicationTable-Demo.gif" alt="Habitz-Demo" width="200" /> |
